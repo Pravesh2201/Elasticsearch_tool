@@ -1,0 +1,1 @@
+web ansible_host=107.20.130.162 ansible_user=ubuntu ansible_ssh_private_key_file=/home/pravesh/Downloads/AWS.pem
